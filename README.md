@@ -2,7 +2,7 @@
 
 ## Overview
 A powerful dashboard created with Excel and Power BI to analyze product sales and customer demographics.
-
+## ![Screenshot 2025-01-10 224136](https://github.com/user-attachments/assets/a18e717a-c11a-4245-a8cc-6c3150d5e775)
 ## Features
 - **Product Metrics**: Gauge chart to monitor product count (1000/2000).
 - **Sales Data**: Annual sales visualization (754K).
